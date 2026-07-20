@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -50,9 +51,14 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
