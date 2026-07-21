@@ -8,6 +8,7 @@
 | [0131-palindrome-partitioning](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0796-rotate-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
