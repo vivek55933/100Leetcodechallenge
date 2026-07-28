@@ -12,6 +12,7 @@
 | [0796-rotate-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
