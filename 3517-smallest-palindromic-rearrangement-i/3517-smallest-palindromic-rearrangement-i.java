@@ -5,25 +5,21 @@ class Solution {
             freq[c - 'a']++;
         }
 
-        StringBuilder left = new StringBuilder();
-        char mid = 0;
+        int n = s.length();
+        char[] ans = new char[n];
+        int left = 0, right = n - 1;
 
         for (int i = 0; i < 26; i++) {
-            for (int j = 0; j < freq[i] / 2; j++) {
-                left.append((char) ('a' + i));
+            while (freq[i] >= 2) {
+                ans[left++] = (char) ('a' + i);
+                ans[right--] = (char) ('a' + i);
+                freq[i] -= 2;
             }
-            if ((freq[i] & 1) == 1) {
-                mid = (char) ('a' + i);
+            if (freq[i] == 1) {
+                ans[n / 2] = (char) ('a' + i);
             }
         }
 
-        StringBuilder ans = new StringBuilder();
-        ans.append(left);
-        if (mid != 0) {
-            ans.append(mid);
-        }
-        ans.append(new StringBuilder(left).reverse());
-
-        return ans.toString();
+        return new String(ans);
     }
 }
