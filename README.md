@@ -59,6 +59,7 @@
 | [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
