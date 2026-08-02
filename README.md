@@ -21,6 +21,7 @@
 | [0022-generate-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -107,4 +110,8 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
