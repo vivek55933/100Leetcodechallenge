@@ -12,13 +12,11 @@ class Solution {
             max = Math.max(max, num);
             set.add(num);
         }
-        
         for (int i = min; i <= max; i++) {
             if (!set.contains(i)) {
                 ans.add(i);
             }
         }
-        
         return ans;
     }
 }
