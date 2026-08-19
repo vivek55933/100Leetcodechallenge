@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
+| [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@
 | [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1406-stone-game-iii) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -113,6 +115,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
