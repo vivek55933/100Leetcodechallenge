@@ -11,6 +11,7 @@
 | [0541-reverse-string-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
+| [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -39,6 +40,7 @@
 | [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
@@ -144,6 +147,7 @@
 | [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
