@@ -87,6 +87,7 @@
 | [1872-stone-game-viii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1872-stone-game-viii) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3731-find-missing-elements) |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
