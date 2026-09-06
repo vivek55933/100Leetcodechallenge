@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0043-multiply-strings) |
+| [0115-distinct-subsequences](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
 | [0541-reverse-string-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0541-reverse-string-ii) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
