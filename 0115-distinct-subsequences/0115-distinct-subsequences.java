@@ -1,0 +1,21 @@
+class Solution {
+    public int numDistinct(String s, String t) {
+        int m = t.length();
+        int[] dp = new int[m + 1];
+
+        // Empty string t can always be formed in exactly one way
+        dp[0] = 1;
+
+        for (int i = 0; i < s.length(); i++) {
+            // Traverse backwards so dp[j - 1] is from the previous
+            // iteration of s[i]
+            for (int j = m; j >= 1; j--) {
+                if (s.charAt(i) == t.charAt(j - 1)) {
+                    dp[j] += dp[j - 1];
+                }
+            }
+        }
+
+        return dp[m];
+    }
+}
