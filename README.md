@@ -73,6 +73,7 @@
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
 | [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -95,6 +96,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
