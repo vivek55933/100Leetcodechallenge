@@ -30,6 +30,7 @@
 | [1140-stone-game-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3731-find-missing-elements) |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
