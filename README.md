@@ -29,6 +29,7 @@
 | [0877-stone-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -74,6 +75,7 @@
 | ------- |
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
 | [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -91,6 +93,7 @@
 | [1260-shift-2d-grid](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
 | [1872-stone-game-viii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1872-stone-game-viii) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -202,6 +205,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
@@ -220,4 +224,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
