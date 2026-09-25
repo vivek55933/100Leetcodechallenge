@@ -11,6 +11,7 @@
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
 | [0541-reverse-string-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0290-word-pattern) |
+| [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -228,6 +232,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
@@ -243,4 +248,8 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
