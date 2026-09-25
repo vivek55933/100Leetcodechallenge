@@ -61,6 +61,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -110,6 +111,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3731-find-missing-elements) |
