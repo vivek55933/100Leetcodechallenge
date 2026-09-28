@@ -14,6 +14,7 @@
 | [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -252,4 +253,9 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
