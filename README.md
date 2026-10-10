@@ -110,6 +110,7 @@
 | [1872-stone-game-viii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1872-stone-game-viii) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -135,6 +136,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -190,6 +192,7 @@
 | [1386-cinema-seat-allocation](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -225,6 +228,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivek55933/100Leetcodechallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
@@ -262,4 +266,8 @@
 | [0022-generate-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivek55933/100Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vivek55933/100Leetcodechallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
